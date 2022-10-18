@@ -6,6 +6,8 @@
 
 int main(void)
 {
+	int = y
+
 	for (y = 'a'; y <= 'z'; y++)
 	{
 		_putchar(y);
