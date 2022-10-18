@@ -6,7 +6,7 @@
 
 int main(void)
 {
-	int = y
+	int y;
 
 	for (y = 'a'; y <= 'z'; y++)
 	{
