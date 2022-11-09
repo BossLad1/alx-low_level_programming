@@ -6,9 +6,8 @@
  * @argv: array that contains the program command line arguments.
  * Return: 0 - success.
  */
-int main(int argc, char *agrv[])
+int main(int argc, char *agrv[] __attribute__((unused)))
 {
-	(void) argv;/*ignore argv*/
-	printf("%i\n", argc - 1);
+	printf("%d\n", argc - 1);
 	return (0);
 }
