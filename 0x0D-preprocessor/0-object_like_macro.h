@@ -1,6 +1,4 @@
-#ifndef _OBJECT_LIKE_MARCO_H
-#define _OBJECT_LIKE_MARCO_H
-
+#ifndef _HEADER_
+#define _HEADER_
 #define SIZE 1024
-
 #endif
